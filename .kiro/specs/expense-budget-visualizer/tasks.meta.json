@@ -1,0 +1,220 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1.1 Create `index.html` with semantic sections and all required element IDs": [
+      {
+        "executionId": "3016c06b-706d-437c-ba87-723f417acf37",
+        "chatSessionId": "sess_09eb068d-0ee2-4f4f-907b-09d2329ad21a",
+        "timestamp": 1790878510855
+      },
+      {
+        "executionId": "3016c06b-706d-437c-ba87-723f417acf37",
+        "chatSessionId": "sess_09eb068d-0ee2-4f4f-907b-09d2329ad21a",
+        "timestamp": 1790878573002
+      }
+    ],
+    "1.2 Create `css/style.css` with layout, typography, and CSS custom properties for theming": [
+      {
+        "executionId": "994cde1b-2c60-4b80-b381-ba65191d0b50",
+        "chatSessionId": "sess_a40674be-80aa-47cd-9145-0bc921d5d017",
+        "timestamp": 1790878716310
+      },
+      {
+        "executionId": "994cde1b-2c60-4b80-b381-ba65191d0b50",
+        "chatSessionId": "sess_a40674be-80aa-47cd-9145-0bc921d5d017",
+        "timestamp": 1790879081429
+      }
+    ],
+    "1. Scaffold HTML structure and CSS baseline": [
+      {
+        "executionId": "994cde1b-2c60-4b80-b381-ba65191d0b50",
+        "chatSessionId": "sess_a40674be-80aa-47cd-9145-0bc921d5d017",
+        "timestamp": 1790879081837
+      }
+    ],
+    "2.1 Define constants and `AppState` object": [
+      {
+        "executionId": "01248698-78f1-472d-9072-240859041a12",
+        "chatSessionId": "sess_35bdaaab-0302-4735-955c-ac2d7c59d325",
+        "timestamp": 1790879141157
+      },
+      {
+        "executionId": "01248698-78f1-472d-9072-240859041a12",
+        "chatSessionId": "sess_35bdaaab-0302-4735-955c-ac2d7c59d325",
+        "timestamp": 1790879177873
+      }
+    ],
+    "2. Implement AppState, constants, and persistence layer in `js/app.js`": [
+      {
+        "executionId": "78f09d29-23dc-45f1-bd1a-6f70d339faae",
+        "chatSessionId": "sess_a718530d-ae7e-44fb-9614-9a4ed8356b69",
+        "timestamp": 1790879199316
+      },
+      {
+        "executionId": "78f09d29-23dc-45f1-bd1a-6f70d339faae",
+        "chatSessionId": "sess_a718530d-ae7e-44fb-9614-9a4ed8356b69",
+        "timestamp": 1790879439666
+      }
+    ],
+    "3.1 Implement `validateTransactionInput(data)`": [
+      {
+        "executionId": "7d1eaddc-e4b8-4156-9f57-86f057e6b276",
+        "chatSessionId": "sess_01e781ff-35ed-44c6-9b7f-c624ca2350c0",
+        "timestamp": 1790879468702
+      },
+      {
+        "executionId": "7d1eaddc-e4b8-4156-9f57-86f057e6b276",
+        "chatSessionId": "sess_01e781ff-35ed-44c6-9b7f-c624ca2350c0",
+        "timestamp": 1790879517818
+      }
+    ],
+    "3. Implement validation and business logic functions": [
+      {
+        "executionId": "fb405bce-6af4-46a1-ad9a-de4744e308e3",
+        "chatSessionId": "sess_507ceec1-937d-4864-b8b3-254005d7e547",
+        "timestamp": 1790879602613
+      },
+      {
+        "executionId": "fb405bce-6af4-46a1-ad9a-de4744e308e3",
+        "chatSessionId": "sess_507ceec1-937d-4864-b8b3-254005d7e547",
+        "timestamp": 1790879641144
+      }
+    ],
+    "3.3 Implement `addTransaction(data)`, `deleteTransaction(id)`, `addCustomCategory(name)`, `setSpendingLimit(category, amount)`": [
+      {
+        "executionId": "4027f6f0-1bcb-4f9e-98c7-a6930503ac06",
+        "chatSessionId": "sess_59c9e042-345b-4647-b632-f8ffda06d561",
+        "timestamp": 1790879663327
+      },
+      {
+        "executionId": "4027f6f0-1bcb-4f9e-98c7-a6930503ac06",
+        "chatSessionId": "sess_59c9e042-345b-4647-b632-f8ffda06d561",
+        "timestamp": 1790879806220
+      }
+    ],
+    "3.4 Implement `getFilteredTransactions()` and `getCategoryTotals(txList)`": [
+      {
+        "executionId": "b955241c-4773-4c23-a654-dfeea65ce522",
+        "chatSessionId": "sess_39a26304-93e0-44d0-bb19-4d31490884ca",
+        "timestamp": 1790879844077
+      },
+      {
+        "executionId": "b955241c-4773-4c23-a654-dfeea65ce522",
+        "chatSessionId": "sess_39a26304-93e0-44d0-bb19-4d31490884ca",
+        "timestamp": 1790880038141
+      }
+    ],
+    "5.1 Implement `showNotification(message, type)` and `renderCategorySelects()`": [
+      {
+        "executionId": "b941734c-edf2-4b8d-80d9-01effb033ce3",
+        "chatSessionId": "sess_310b7a7c-3173-44c9-835f-ff2f621f397b",
+        "timestamp": 1790880077632
+      },
+      {
+        "executionId": "b941734c-edf2-4b8d-80d9-01effb033ce3",
+        "chatSessionId": "sess_310b7a7c-3173-44c9-835f-ff2f621f397b",
+        "timestamp": 1790880165143
+      }
+    ],
+    "5.2 Implement `renderBalance(txList)` and `renderTransactionList(txList)`": [
+      {
+        "executionId": "37941b72-809d-47f6-8c50-b593b7a26741",
+        "chatSessionId": "sess_5f51fea5-f19b-43e3-8dc5-bc3bc845d060",
+        "timestamp": 1790880200609
+      },
+      {
+        "executionId": "37941b72-809d-47f6-8c50-b593b7a26741",
+        "chatSessionId": "sess_5f51fea5-f19b-43e3-8dc5-bc3bc845d060",
+        "timestamp": 1790880278994
+      }
+    ],
+    "5.5 Implement `renderChart(txList)`": [
+      {
+        "executionId": "be6f6498-909c-4d61-a4b2-2136f65c34cd",
+        "chatSessionId": "sess_f70aa57c-240a-4b7b-a7d7-7feef36baa6a",
+        "timestamp": 1790880614400
+      },
+      {
+        "executionId": "be6f6498-909c-4d61-a4b2-2136f65c34cd",
+        "chatSessionId": "sess_f70aa57c-240a-4b7b-a7d7-7feef36baa6a",
+        "timestamp": 1790880810756
+      }
+    ],
+    "5.8 Implement `renderLimitIndicators()`": [
+      {
+        "executionId": "3c4da8ca-7274-46f7-affc-7615ec10a01d",
+        "chatSessionId": "sess_8a620999-3b57-4b37-b3ef-af747511a253",
+        "timestamp": 1790880825837
+      },
+      {
+        "executionId": "3c4da8ca-7274-46f7-affc-7615ec10a01d",
+        "chatSessionId": "sess_8a620999-3b57-4b37-b3ef-af747511a253",
+        "timestamp": 1790881153727
+      }
+    ],
+    "5. Implement render functions and wire the UI": [
+      {
+        "executionId": "8569fa42-1b91-4dd6-aa5d-0c3039167daa",
+        "chatSessionId": "sess_154b52ec-9e95-40a6-a55e-627b4b3c8cfb",
+        "timestamp": 1790881487289
+      },
+      {
+        "executionId": "8569fa42-1b91-4dd6-aa5d-0c3039167daa",
+        "chatSessionId": "sess_154b52ec-9e95-40a6-a55e-627b4b3c8cfb",
+        "timestamp": 1790882309031
+      }
+    ],
+    "2.2 Implement persistence layer functions": [
+      {
+        "executionId": "eff39f86-fbed-4e58-b35e-0e1055a6b835",
+        "chatSessionId": "sess_17e8348b-388e-4a69-aedc-3901ad6d4a12",
+        "timestamp": 1790882656343
+      }
+    ],
+    "3.2 Implement `validateCategoryName(name)`": [
+      {
+        "executionId": "eff39f86-fbed-4e58-b35e-0e1055a6b835",
+        "chatSessionId": "sess_17e8348b-388e-4a69-aedc-3901ad6d4a12",
+        "timestamp": 1790882661148
+      }
+    ],
+    "4. Checkpoint — Core logic complete": [
+      {
+        "executionId": "eff39f86-fbed-4e58-b35e-0e1055a6b835",
+        "chatSessionId": "sess_17e8348b-388e-4a69-aedc-3901ad6d4a12",
+        "timestamp": 1790882665745
+      }
+    ],
+    "6. Checkpoint — Full render pipeline wired": [
+      {
+        "executionId": "353db618-ad70-45ef-a48b-87a5cdd098d6",
+        "chatSessionId": "sess_5e445527-c0de-4aa4-af7d-7b4dfed03e79",
+        "timestamp": 1790882773121
+      },
+      {
+        "executionId": "353db618-ad70-45ef-a48b-87a5cdd098d6",
+        "chatSessionId": "sess_5e445527-c0de-4aa4-af7d-7b4dfed03e79",
+        "timestamp": 1790883029105
+      }
+    ],
+    "7.1 Add custom category limit enforcement and limit-section dynamic rendering": [
+      {
+        "executionId": "a1478d96-1101-40ad-92ca-a2d8ae05023d",
+        "chatSessionId": "sess_a13c8e7d-b710-48a6-bf51-41c128560667",
+        "timestamp": 1790883124171
+      },
+      {
+        "executionId": "a1478d96-1101-40ad-92ca-a2d8ae05023d",
+        "chatSessionId": "sess_a13c8e7d-b710-48a6-bf51-41c128560667",
+        "timestamp": 1790883269447
+      }
+    ],
+    "7. Polish, edge cases, and custom-category limit enforcement": [
+      {
+        "executionId": "d289cc55-8691-4a6e-9cb8-2fda73116fd3",
+        "chatSessionId": "sess_54e05770-36db-4008-bfa4-c9ace51c6464",
+        "timestamp": 1790883603694
+      }
+    ]
+  }
+}
